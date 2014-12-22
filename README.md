@@ -26,7 +26,7 @@ As result of this we have meaningful names of activities in our `in-memory` data
 
 ## Step 4 - columns
 
-At this step bind together columns: activities, measurements, and activities.
+At this step we bind together columns: activities, measurements, and activities.
 
 ## Step 5 - new data set
 
